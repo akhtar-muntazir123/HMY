@@ -1,0 +1,32 @@
+.login{
+    margin-left: 30%;
+}
+.login h1{
+    color: #F19ED2;
+    margin: 10px;
+}
+.login input{
+    margin: 15px 12px;
+    font-size: 1.2rem;
+    border: 2px solid #F19ED2;
+    padding: 3px;
+}
+.login button{
+    margin: 7px 15px;
+    font-size: 1.2rem;
+    border: 1.5px solid #F19ED2;
+    /* font-size: large; */
+    background: white;
+    color: #F19ED2;
+    padding: 8px;
+    border-radius: 5px;
+}
+.login button:hover{
+    margin: 7px 15px;
+    font-size: 1.2rem;
+    border:1.5px solid #F19ED2;
+    background:#F19ED2;
+    color:white;
+    padding: 8px;
+    border-radius: 5px;
+}
